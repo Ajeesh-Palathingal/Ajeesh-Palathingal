@@ -1,50 +1,60 @@
-<!-- ===== Animated Header ===== -->
+<!-- ================== HERO BANNER ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ajeesh+Palathingal;Flutter+Developer;Mobile+%26+Backend+Enthusiast;Building+Real-World+Apps" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ajeesh%20Palathingal&fontAlign=50&fontAlignY=38&fontSize=42&desc=Flutter%20%7C%20Node.js%20%7C%20Express&descAlign=50&descAlignY=58&color=0:0D1117,100:1F6FEB&animation=fadeIn" 
+  />
 </p>
 
+<!-- ================== ANIMATED TYPING INTRO ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=2&section=header" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Hi%2C+I%E2%80%99m+Ajeesh+Palathingal;Software+Developer" 
+  />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I’m a **Flutter Developer** who enjoys building **clean, scalable, and production-ready applications**.  
-I like working across the stack — from **UI polish** to **backend APIs** and **AI-assisted features**.
+## 👋 About Me
+I’m a **Flutter Developer** with strong experience in **Node.js & Express backends**, focused on building **real-world, production-ready applications**.
 
-- 🔭 Actively building Flutter & Node.js apps  
-- 🌱 Exploring performance tuning & ML integrations  
-- ⚡ I enjoy shipping products, not just prototypes
+I care about:
+- clean architecture  
+- performance  
+- scalability  
+- and shipping features that actually matter  
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech I Work With
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,firebase,python,git,github&theme=dark" />
 </p>
 
+<p align="center">
+  <sub>Flutter for UI • Node.js & Express for APIs • Firebase & REST • Python for ML experiments</sub>
+</p>
+
 ---
 
-## 🚀 Featured Work
+## 🚀 What I’ve Built
 <p align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <strong>🧠 Deepfake Detection App</strong><br/>
         Flutter • Node.js • Python<br/>
-        Video analysis & ML-based detection
+        ML-based video analysis system
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <strong>💬 Realtime Chat App</strong><br/>
-        Flutter • Socket.IO • Node.js<br/>
-        Typing indicators & live messaging
+        Flutter • Socket.IO • Express<br/>
+        Live messaging, typing indicators
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <strong>🛒 E-Commerce / Rental Apps</strong><br/>
-        Firebase • REST APIs • Dynamic pricing logic
+        <strong>🛒 E-Commerce & Rental Platforms</strong><br/>
+        REST APIs • Firebase • Dynamic pricing & payments
       </td>
     </tr>
   </table>
@@ -52,43 +62,60 @@ I like working across the stack — from **UI polish** to **backend APIs** and *
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajeesh-Palathingal&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeesh-Palathingal&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ajeesh-Palathingal&show_icons=true&theme=github_dark&hide_border=true" 
+    width="100%" 
+  />
 </p>
 
 <p align="center">
-  <em>Stats are based on public data; contribution graph below reflects full activity.</em>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeesh-Palathingal&layout=compact&theme=github_dark&hide_border=true" 
+    width="100%" 
+  />
+</p>
+
+<p align="center">
+  <sub>Note: Stats reflect public data. Contribution graph below shows full activity.</sub>
 </p>
 
 ---
 
 ## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeesh-Palathingal&theme=github-compact&hide_border=true"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeesh-Palathingal&theme=github-compact&hide_border=true" 
+    width="100%" 
+  />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+  />
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 <p align="center">
-  📧 <strong>Email</strong>: ajeeshpalathingaldev@gmail.com &nbsp;•&nbsp;
-  💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/ajeesh-palathingal">ajeesh-palathingal</a> &nbsp;•&nbsp;
-  🌐 <strong>Portfolio</strong>: <a href="https://ajeesh-palathingal.github.io">ajeesh-palathingal.github.io</a>
+  <a href="mailto:ajeeshpalathingaldev@gmail.com">📧 Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ajeesh-palathingal">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://ajeesh-palathingal.github.io">🌐 Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1F6FEB,100:0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=2&section=footer" />
-</p>
-
-<p align="center">
-  ⭐ Thanks for stopping by — feel free to explore my repositories!
+  ⭐ Thanks for visiting — feel free to explore my repositories!
 </p>
