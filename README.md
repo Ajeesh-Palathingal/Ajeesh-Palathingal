@@ -58,7 +58,7 @@ I enjoy working across **frontend**, **backend**, and **AI-assisted systems**.
 
 ## 📫 Connect With Me
 - 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ajeesh  
+- 💼 LinkedIn: www.linkedin.com/in/ajeesh-palathingal 
 - 🌐 Portfolio: https://ajeesh-palathingal.github.io
 
 ---
