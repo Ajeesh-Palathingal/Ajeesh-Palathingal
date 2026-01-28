@@ -1,9 +1,9 @@
 <!-- ================== HERO BANNER ================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ajeesh%20Palathingal&fontAlign=50&fontAlignY=38&fontSize=42&desc=Flutter%20%7C%20Node.js%20%7C%20Express&descAlign=50&descAlignY=58&color=0:0D1117,100:1F6FEB&animation=fadeIn" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Ajeesh%20Palathingal&fontSize=42&fontColor=E6EDF3&fontAlign=50&fontAlignY=38&desc=Flutter%20%7C%20Node.js%20%7C%20Express&descColor=58A6FF&descAlign=50&descAlignY=58&color=0:0D1117,100:1F6FEB&animation=fadeIn" />
 </p>
+
+
 
 <!-- ================== ANIMATED TYPING INTRO ================== -->
 <p align="center">
@@ -66,19 +66,19 @@ I care about:
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Ajeesh-Palathingal&show_icons=true&theme=github_dark&hide_border=true" 
-    width="100%" 
+    height="165"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeesh-Palathingal&layout=compact&theme=github_dark&hide_border=true" 
-    width="100%" 
+    height="130"
   />
 </p>
 
 <p align="center">
-  <sub>Note: Stats reflect public data. Contribution graph below shows full activity.</sub>
+  <sub>Stats reflect public data. Contribution graph below shows full activity.</sub>
 </p>
 
 ---
@@ -107,7 +107,7 @@ I care about:
 <p align="center">
   <a href="mailto:ajeeshpalathingaldev@gmail.com">📧 Email</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/ajeesh-palathingal">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://ajeesh-palathingal.github.io">🌐 Portfolio</a>
+  <!-- <a href="https://ajeesh-palathingal.github.io">🌐 Portfolio</a> -->
 </p>
 
 ---
